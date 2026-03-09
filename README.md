@@ -71,8 +71,10 @@ c.close()
 
 ## Output
 
-![alt text](<../Screenshot 2026-03-09 204556.png>)
-![alt text](<../Screenshot 2026-03-09 204604.png>)
+<img width="815" height="514" alt="Screenshot 2026-03-09 204556" src="https://github.com/user-attachments/assets/4b937ce6-702b-46aa-8d73-20c948669f4a" />
+<img width="667" height="137" alt="Screenshot 2026-03-09 204604" src="https://github.com/user-attachments/assets/d96920d0-2c91-4da5-9ddb-4aa637624865" />
+
+
 
 ## Result
 Thus Execution of Network commands Performed.
