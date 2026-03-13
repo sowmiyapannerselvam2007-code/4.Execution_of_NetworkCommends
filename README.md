@@ -71,6 +71,5 @@ s.close()
 
 ## Output
 
-
 ## Result
 Thus Execution of Network commands Performed.
