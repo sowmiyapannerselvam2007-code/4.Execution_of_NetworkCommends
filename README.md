@@ -70,6 +70,6 @@ s.close()
 ```
 
 ## Output
-![Output](ij.png)
+
 ## Result
 Thus Execution of Network commands Performed.
