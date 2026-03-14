@@ -70,6 +70,6 @@ s.close()
 ```
 
 ## Output
-![output](Screenshot 2026-03-09 190133.png)
+![output](output1.png)
 ## Result
 Thus Execution of Network commands Performed.
