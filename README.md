@@ -87,11 +87,10 @@ nslookup
 ```
 netstat
 ```
-![output](output6.png)
-
-![output](output7.png)
-![output](output8.png)
 ![output](output9.png)
+```
+tcpdump
+```
 ![output](output10.png)
 ## Result
 Thus Execution of Network commands Performed.
