@@ -71,5 +71,14 @@ s.close()
 
 ## Output
 ![output](output1.png)
+![output](output2.png)
+![output](output3.png)
+![output](output4.png)
+![output](output5.png)
+![output](output6.png)
+![output](output7.png)
+![output](output8.png)
+![output](output9.png)
+![output](output10.png)
 ## Result
 Thus Execution of Network commands Performed.
