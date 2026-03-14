@@ -72,10 +72,23 @@ s.close()
 ## Output
 ![output](output1.png)
 ![output](output2.png)
+```
+traceroute
+```
 ![output](output3.png)
+```
+ipconfig
+```
 ![output](output4.png)
+```
+nslookup
+```
 ![output](output5.png)
+```
+netstat
+```
 ![output](output6.png)
+
 ![output](output7.png)
 ![output](output8.png)
 ![output](output9.png)
